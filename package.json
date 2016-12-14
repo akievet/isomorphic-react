@@ -1,0 +1,26 @@
+{
+    "name": "isomorphic-react",
+    "version": "1.0.0",
+    "description": "An Isomorphic React Tutorial",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akievet/isomorphic-react.git"
+    },
+    "author": "Amanda Kievet",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/akievet/isomorphic-react/issues"
+    },
+    "homepage": "https://github.com/akievet/isomorphic-react#readme",
+    "devDependencies": {
+        "eslint": "^3.7.0",
+        "eslint-config-airbnb": "^12.0.0",
+        "eslint-plugin-import": "^1.16.0",
+        "eslint-plugin-jsx-a11y": "^2.2.2",
+        "eslint-plugin-react": "^6.3.0"
+    }
+}
